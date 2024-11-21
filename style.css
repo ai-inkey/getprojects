@@ -1,0 +1,11 @@
+/* Global Properties */
+
+html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    background:aquamarine;
+    font-family: "roboto","sans serif", "serif";
+  }
+  
